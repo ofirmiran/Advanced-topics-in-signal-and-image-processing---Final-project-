@@ -1,0 +1,2 @@
+0 ship
+1 boat
